@@ -1,0 +1,1 @@
+# Hibernate_Association_Mapping_OneToOne_PK_Annotation_Save_Load_Maven
